@@ -13,7 +13,8 @@ The bar graph of Racism in Jail shows the rates of mental illness diagnosis of i
 The data came from Fatos Kaba et al., based on a research study of “Disparities in Mental Health Referral and Diagnosis in the New York City Jail Mental Health Service.” And, the graphic created by Catherine D’lgnazio. 
 
 **When was it produced?**
-The data recorded 
+
+The data recorded around forty-five thousand first-time incarcerated people in New York City jails between 2011 and 2013. 
 
 
 **Who is the audience for the visualization?**
