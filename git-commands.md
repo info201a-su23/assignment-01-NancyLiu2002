@@ -25,7 +25,7 @@ cd /assignment-01-NancyLiu2002/images/COVID-19-Visualizations/covid-example-2.pn
 git add .
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
-git commit-m "descriptive message"
+git commit-m "updated"
 
 # (9) Finally, push your changes to GitHub [1 point]
 git push
