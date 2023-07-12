@@ -26,4 +26,9 @@ The visualization has interpreted the ethnicity disparities in awareness, which 
 
 **How, if at all, does the data visualization represent power or systems?**
 
+The power of data visualization represents by the in-depth insights into the different treatment people faced; in this case, it talks about the mental illness diagnoses in New York jails. As the audiences read through the provided information, the question might be raised in their heart about whether certain racial and ethnic groups are more likely to face unequal or injustice ignorance. It guides audiences to explore the topic, monitor the phenomenon, and finally leave the space for people to make their own decision. 
+
+📖 For more related information, you're welcome to read https://www.nytimes.com/2022/12/01/nyregion/prisons-racial-bias-ny.html 
+
+
 
